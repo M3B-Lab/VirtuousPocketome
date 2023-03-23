@@ -17,7 +17,7 @@ The input data, required to reproduce the results in the paper, is organized in 
 
   * `SimulationInput/`
 
-    This folder contains the input files (TPR format) for the equilibration and production MD simulations.
+    This folder contains the input files (TPR format) for the equilibration and production MD simulations (after NVT+NPT equilibration).
 
 ---
 
