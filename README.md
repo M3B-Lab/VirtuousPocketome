@@ -5,7 +5,7 @@ This repositary contains the simulation data for the paper "VirtuousCompare: A C
 
 The input data, required to reproduce the results in the paper, is organized in the following folders:
 
-SimulationData/
+* SimulationData/
 
   * `MDP/`
 
