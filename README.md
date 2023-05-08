@@ -1,7 +1,7 @@
 # VirtuousPocketome
 Public repo of the VirtuousPocketome tool
 
-This repositary contains the simulation data for the paper "VirtuousPocketome: A Computational Tool for Virtual Screening of Protein Structures to Identify Similar Binding Sites".
+This repository contains the simulation data for the paper "VirtuousPocketome: A Computational Tool for Virtual Screening of Protein Structures to Identify Similar Binding Sites".
 
 The input data, required to reproduce the results in the paper, is organized in the following folders:
 
