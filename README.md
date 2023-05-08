@@ -1,4 +1,4 @@
-# VirtuousCompare
+# VirtuousPocketome
 Public repo of the VirtuousCompare tool
 
 This repositary contains the simulation data for the paper "VirtuousCompare: A Computational Tool for Virtual Screening of Protein Structures to Identify Similar Binding Sites".
