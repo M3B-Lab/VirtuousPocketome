@@ -7,9 +7,9 @@ Repository containing the files regarding the study:
 
 ## VirtuousPocketome: A Computational Tool for Virtual Screening of Protein Structures to Identify Similar Binding Sites
 
-Lorenzo Pallante<sup>1†</sup>, <i>Marco Cannariato<sup>1†</sup>, Lampros Androutsos<sup>2</sup>, Eric A. Zizzi <sup>1</sup>, Agorakis Bompotas<sup>3</sup>, Xhesika Hada<sup>1</sup>, Gianvito Grasso<sup>4</sup>, Athanasios Kalogeras<sup>3</sup>, Seferina Mavroudi<sup>2,5</sup>, Konstantinos Theofilatos<sup>2</sup> and Marco A. Deriu<sup>1*</sup>  </i>
+<i> Lorenzo Pallante<sup>1†</sup>, Marco Cannariato<sup>1†</sup>, Lampros Androutsos<sup>2</sup>, Eric A. Zizzi <sup>1</sup>, Agorakis Bompotas<sup>3</sup>, Xhesika Hada<sup>1</sup>, Gianvito Grasso<sup>4</sup>, Athanasios Kalogeras<sup>3</sup>, Seferina Mavroudi<sup>2,5</sup>, Konstantinos Theofilatos<sup>2</sup> and Marco A. Deriu<sup>1*</sup>  </i>
 
-<font size=2> <sup>1</sup>Polito<sup>BIO</sup>Med Lab, Department of Mechanical and Aerospace Engineering, Politecnico di Torino, 10129, Turin, Italy\
+<font size=1.5> <sup>1</sup>Polito<sup>BIO</sup>Med Lab, Department of Mechanical and Aerospace Engineering, Politecnico di Torino, 10129, Turin, Italy\
 <sup>2</sup>InSyBio PC, Patras, 265 04, Greece 
 <sup>3</sup>Industrial Systems Institute, Athena Research Center, 265 04 Patras, Greece.
 <sup>4</sup> Dalle Molle Institute for Artificial Intelligence, Department of Innovative Technologies, Lugano-Viganello, 6962, Switzerland
